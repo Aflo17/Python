@@ -1,1 +1,1 @@
-# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+This script requires Python 3.6 or later. No additional libraries are needed.
